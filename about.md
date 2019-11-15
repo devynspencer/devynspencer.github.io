@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+So uh, I'm kind of a special snowflake. I mainly work on Windows servers, but I have street cred with Linux teams.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm an OG configuration management advocate (I used [Puppet](https://puppet.com), [Chef](https://chef.io), and [Ansible](https://ansible.com) *before* they were cool), but haven't found a good toolset for Windows. I wrote a deployment pipeline for [PowerShell DSC](https://docs.microsoft.com/en-us/powershell/scripting/dsc) but the future of DSC is dubious.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hit me up on [twitter](https://twitter.com/devynspencer) if you want to chat or fight me on something tech related.
