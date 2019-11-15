@@ -23,7 +23,7 @@ email: devyn.spencer@oya.state.or.us
 description: >-
   I'm a system administrator with a passion for automation, security, and packets.
   PowerShell and Wireshark pay the bills, but JavaScript feeds my soul.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll"
 url: "https://devynspencer.github.io"
 twitter_username: devynspencer
 github_username:  devynspencer
